@@ -23,19 +23,3 @@ I build **web and Windows desktop applications**, with a focus on **C# and .NET*
 Start with **[PlayGrid](https://github.com/rafalowskaa/BrowserGamesPlatform)** for backend architecture, or **[GamePlatform](https://github.com/rafalowskaa/GamePlatform)** for a desktop project.
 
 [Architecture notes](https://github.com/rafalowskaa/BrowserGamesPlatform/blob/main/docs/ARCHITECTURE.md) · [Build & test workflow](https://github.com/rafalowskaa/BrowserGamesPlatform/actions/workflows/dotnet.yml)
-
-## Website preview
-
-### WHYNAT · a cabinet of little curiosities
-
-A bilingual catalogue for collectible figurines, combining an editorial storefront with a dedicated content-management panel. Each creature has its own story, image gallery, specifications and edition details.
-
-<p align="center">
-  <img src="assets/previews/whynat-homepage.png" width="720" alt="WHYNAT homepage preview: a cream, forest-green and brown storefront with a collectible woodland creature illustration." />
-</p>
-
-**Highlights:** responsive desktop and mobile layouts, Polish/English content, catalogue search and filters, and product storytelling.
-
-**Built with:** Next.js · React · TypeScript · Medusa · PostgreSQL · Playwright.
-
-<sub>Homepage preview from a local demonstration build. Concept artwork and demo content; sales and payments are disabled.</sub>
